@@ -1,0 +1,7 @@
+html {
+  --primary-color: hsl(150, 100%, 66%);
+  --secondary-color: hsl(218, 23%, 16%);
+  --dark-grey: hsl(217, 19%, 24%);
+  --grey: hsl(217, 19%, 38%);
+  --text-color: hsl(193, 38%, 86%);
+}
