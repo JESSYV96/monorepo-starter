@@ -1,0 +1,24 @@
+{
+  "name": "@jessy/data",
+  "private": true,
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --build --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "@jessy/core": "workspace:^0.1.0",
+    "axios": "^1.6.8",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
